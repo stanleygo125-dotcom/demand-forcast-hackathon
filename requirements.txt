@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+altair
+streamlit
+requests
+python-dotenv
+statsmodels
+xgboost
+jupyter
